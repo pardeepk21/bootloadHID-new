@@ -12325,7 +12325,7 @@ For boards designed to be plugged directly into a USB slot. If possible, ensure 
 <part name="D2" library="SparkFun-DiscreteSemi" deviceset="DIODE-ZENER" device="" value="3.6V Zener"/>
 <part name="X1" library="con-molex" deviceset="22-23-2021" device="" value="J1"/>
 <part name="J1" library="SparkFun-Connectors" deviceset="USB" device="PTH" value="USB-B"/>
-<part name="C3" library="adafruit" deviceset="CPOL-US" device="E2.5-6"/>
+<part name="C3" library="adafruit" deviceset="CPOL-US" device="E2.5-6" value="100uF"/>
 <part name="P+1" library="supply1" deviceset="VCC" device=""/>
 <part name="GND1" library="supply1" deviceset="GND" device=""/>
 <part name="R2" library="adafruit" deviceset="R-US_" device="0204/7" value="68E"/>
